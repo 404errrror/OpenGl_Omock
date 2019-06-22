@@ -1,0 +1,14 @@
+
+32비트 운영체제를 사용할 경우
+glut32.dll: C:\Windows\System32
+
+64비트 운영체제를 사용할 경우
+glut32.dll: C:\Windows\SysWOW64
+
+
+
+32비트 64비트 공통.
+glut32.lib: C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\lib
+
+glut.h: C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\include\GL 
+(GL폴더 없을시엔 생성.)
